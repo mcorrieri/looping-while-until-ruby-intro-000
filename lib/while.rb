@@ -9,6 +9,7 @@ def using_while
   end
 end
 
+puts "#{Wingardium Leviosa}"
 
 # num_of_hotdogs_eaten = 0
 # # => 0 (return value)
