@@ -9,7 +9,7 @@ def using_while
   end
 end
 
-puts "#{Wingardium Leviosa}"
+puts "#{levitation_force}"
 
 # num_of_hotdogs_eaten = 0
 # # => 0 (return value)
